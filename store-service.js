@@ -8,8 +8,8 @@ distributed to other students.
 Name: Jay Dilipbhai Bakaraniya 
 Student ID: 143370237
 Date: 2024-10-25
-Replit Web App URL: https://replit.com/@jdbakaraniya/web322-app
-GitHub Repository URL: https://github.com/jaybakaraniya3/web322-app
+Replit Web App URL: https://replit.com/@jdbakaraniya/web322-app-a3
+GitHub Repository URL: https://github.com/jaybakaraniya3/web322-app-a3
 
 ****************************/
 
